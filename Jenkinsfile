@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build the code using a build automation tool to compile and package your code. Tool: Maven'
+                echo '(change for git to commit 2) Build the code using a build automation tool to compile and package your code. Tool: Maven'
             }
         }
 
